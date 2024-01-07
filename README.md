@@ -21,6 +21,31 @@ Version Control: Git
 Current Learning Goals
 🌱 Learning more about backend technologies.
 🚀 Improving my competitive programming skills in C++.
+
+# Technology Stack
+
+## Frontend
+- ![HTML](https://via.placeholder.com/30/3498db/000000?text=+) HTML
+- ![CSS](https://via.placeholder.com/30/2ecc71/000000?text=+) CSS
+- ![JavaScript](https://via.placeholder.com/30/f39c12/000000?text=+) JavaScript
+- ![React.js](https://via.placeholder.com/30/61dafb/000000?text=+) React.js
+
+## Backend
+- ![Node.js](https://via.placeholder.com/30/27ae60/000000?text=+) Node.js
+- ![Express.js](https://via.placeholder.com/30/9b59b6/000000?text=+) Express.js
+- ![Django](https://via.placeholder.com/30/0e76a8/000000?text=+) Django
+
+## Database
+- ![MongoDB](https://via.placeholder.com/30/4caf50/000000?text=+) MongoDB
+- ![MySQL](https://via.placeholder.com/30/3498db/000000?text=+) MySQL
+
+## Version Control
+- ![Git](https://via.placeholder.com/30/e74c3c/000000?text=+) Git
+
+## Others
+- ![Docker](https://via.placeholder.com/30/3498db/000000?text=+) Docker
+- ![GraphQL](https://via.placeholder.com/30/e535ab/000000?text=+) GraphQL
+
 Let's Connect
 If you share similar interests or have any suggestions, I'd love to connect and collaborate. Feel free to explore my repositories and drop a star on anything you find interesting!
 
