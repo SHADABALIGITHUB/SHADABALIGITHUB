@@ -7,9 +7,9 @@ Hello, I'm Shadab Ali! 🚀 I'm a B.Tech student at JSS NOIDA, affiliated with A
 💡 Interested in competitive programming, primarily using C++.
 💻 Proficient in JavaScript for building interactive web pages.
 Get in Touch
-📧 You can reach me at your.email@example.com.
-📱 Connect with me on LinkedIn: LinkedIn Profile.
-🌐 Visit my portfolio website: Your Portfolio Website.
+
+📱 Connect with me on LinkedIn: https://www.linkedin.com/in/shadab-ali-a3b667253/
+🌐 Visit my portfolio website: Pending.
  # Projects
 Here are some of the exciting projects I'm working on:
 
