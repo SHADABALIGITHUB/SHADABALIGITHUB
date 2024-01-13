@@ -42,9 +42,7 @@ Current Learning Goals
 ## Version Control
 - ![Git](https://via.placeholder.com/30/e74c3c/000000?text=+) Git
 
-## Others
-- ![Docker](https://via.placeholder.com/30/3498db/000000?text=+) Docker
-- ![GraphQL](https://via.placeholder.com/30/e535ab/000000?text=+) GraphQL
+
 
 Let's Connect
 If you share similar interests or have any suggestions, I'd love to connect and collaborate. Feel free to explore my repositories and drop a star on anything you find interesting!
