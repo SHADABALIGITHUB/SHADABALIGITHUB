@@ -33,7 +33,6 @@ Current Learning Goals
 ## Backend
 - ![Node.js](https://via.placeholder.com/30/27ae60/000000?text=+) Node.js
 - ![Express.js](https://via.placeholder.com/30/9b59b6/000000?text=+) Express.js
-- ![Django](https://via.placeholder.com/30/0e76a8/000000?text=+) Django
 
 ## Database
 - ![MongoDB](https://via.placeholder.com/30/4caf50/000000?text=+) MongoDB
