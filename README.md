@@ -26,6 +26,7 @@ Current Learning Goals
 
 ## Frontend
 - ![HTML](https://via.placeholder.com/30/3498db/000000?text=+) HTML
+- <button> HTML</button>
 - ![CSS](https://via.placeholder.com/30/2ecc71/000000?text=+) CSS
 - ![JavaScript](https://via.placeholder.com/30/f39c12/000000?text=+) JavaScript
 - ![React.js](https://via.placeholder.com/30/61dafb/000000?text=+) React.js
