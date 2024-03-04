@@ -24,9 +24,8 @@ Current Learning Goals
 
 # Technology Stack
 
-## Frontend\
- <button style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 10px;">Click Me</button>
-
+## Frontend
+-<button style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 10px;">Click Me</button>
 - ![CSS](https://via.placeholder.com/30/2ecc71/000000?text=+) CSS
 - ![JavaScript](https://via.placeholder.com/30/f39c12/000000?text=+) JavaScript
 - ![React.js](https://via.placeholder.com/30/61dafb/000000?text=+) React.js
