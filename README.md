@@ -41,6 +41,19 @@ Current Learning Goals
 ## Version Control
 - ![Git](https://via.placeholder.com/30/e74c3c/000000?text=+) Git
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHADABALIGITHUB&theme=dracula" width="100%" />
+
+<div style="width: 100%;">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SHADABALIGITHUB&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" style="width: 58%; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHADABALIGITHUB&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 41%; height: auto;">
+</div>
+
+</br>
+
+<div style="width: 100%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHADABALIGITHUB&theme=dracula&hide_border=false" style="width: 58%; height: auto;">
+    <img src="https://github-profile-trophy.vercel.app/?username=SHADABALIGITHUB&theme=dracula&no-frame=false&no-bg=false&margin-w=10&margin-h=38&rank=-C,-B,row=2&column=4" style="width: 41%; height: auto;">
+</div>
 
 
 Let's Connect
