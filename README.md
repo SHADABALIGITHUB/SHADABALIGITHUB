@@ -53,6 +53,8 @@ Current Learning Goals
 <div style="width: 100%;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHADABALIGITHUB&theme=dracula&hide_border=false" style="width: 58%; height: auto;">
     <img src="https://github-profile-trophy.vercel.app/?username=SHADABALIGITHUB&theme=dracula&no-frame=false&no-bg=false&margin-w=10&margin-h=38&rank=-C,-B,row=2&column=4" style="width: 41%; height: auto;">
+ [![trophy](https://github-profile-trophy.vercel.app/?username=sammorozov&title=Commits,Repositories,MultipleLang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 
