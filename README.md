@@ -57,7 +57,7 @@ Current Learning Goals
 
 </div>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=sammorozov&title=Commits,Repositories,MultipleLang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=SHADABALIGITHUB&title=Commits,Repositories,MultipleLang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 Let's Connect
