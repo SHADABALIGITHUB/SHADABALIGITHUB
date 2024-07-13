@@ -41,34 +41,101 @@ Current Learning Goals
 <!-- <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=tynab&theme=dracula&langs_count=10' /> -->
 
 <!-- <img align='left' src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tynab&theme=dracula' /> -->
-
 # Technology Stack
-## frontEnd
 
-![HTML](https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/cc675f47-b428-452e-97e3-a8a952f828b7)
-![CSS](https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/6c1ad379-b167-4511-9d62-d5b0bbc25362)
-![JS](https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/b38955ba-e97e-45f2-97a2-bf8b94501bef)
+## Frontend
 
-## FRontEnd library
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/cc675f47-b428-452e-97e3-a8a952f828b7" width="50">
+      <br>HTML
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/6c1ad379-b167-4511-9d62-d5b0bbc25362" width="50">
+      <br>CSS
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/b38955ba-e97e-45f2-97a2-bf8b94501bef" width="50">
+      <br>JavaScript
+    </td>
+  </tr>
+</table>
 
-![React](https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/13fd6113-262a-4056-8ab7-1066d6e038d3)
-![Boostrap](https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/66a5e3ce-e98c-484d-9670-88c662c417c1)
-![png-transparent-tailwind-css-hd-logo-thumbnail-removebg-preview (1)](https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/03b61a66-5a27-4887-90d5-e8f86124d5b3)
+## Frontend Library
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/13fd6113-262a-4056-8ab7-1066d6e038d3" width="50">
+      <br>React
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/66a5e3ce-e98c-484d-9670-88c662c417c1" width="50">
+      <br>Bootstrap
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/03b61a66-5a27-4887-90d5-e8f86124d5b3" width="50">
+      <br>Tailwind CSS
+    </td>
+  </tr>
+</table>
 
 ## Backend
-![Nodejs](https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/2715fb13-b3c9-4324-aeaf-d075a2ee9b6c)
-![MySQL](https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/f7313a30-c416-4b71-806e-cde8f6bc7129)
-![MongoDb](https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/0b7ef9e8-aeb1-426c-84db-05fe72dc2122)
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/2715fb13-b3c9-4324-aeaf-d075a2ee9b6c" width="50">
+      <br>Node.js
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/f7313a30-c416-4b71-806e-cde8f6bc7129" width="50">
+      <br>MySQL
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/0b7ef9e8-aeb1-426c-84db-05fe72dc2122" width="50">
+      <br>MongoDB
+    </td>
+  </tr>
+</table>
 
 ## Version Control
-![Git](https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/2aad14f3-fc13-4be8-9e52-e9323bc8751c)
-![GitHub](https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/64b040e5-a6cf-4c90-bff1-4130bf00d4df)
 
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/2aad14f3-fc13-4be8-9e52-e9323bc8751c" width="50">
+      <br>Git
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/64b040e5-a6cf-4c90-bff1-4130bf00d4df" width="50">
+      <br>GitHub
+    </td>
+  </tr>
+</table>
 
-## Basic Language and Utils
-![Java](https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/be99901e-10c9-425b-8edc-accb27fe760b)
-![npm](https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/c493eb16-d91c-42ad-87a8-52c5a4169893)
-![Python](https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/d90b884f-c572-4bfa-831a-0ab218679feb)
-![CPP](https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/26c587ec-ce78-454e-85ea-e7c112ad3347)
+## Basic Languages and Utils
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/be99901e-10c9-425b-8edc-accb27fe760b" width="50">
+      <br>Java
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/c493eb16-d91c-42ad-87a8-52c5a4169893" width="50">
+      <br>npm
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/d90b884f-c572-4bfa-831a-0ab218679feb" width="50">
+      <br>Python
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/SHADABALIGITHUB/SHADABALIGITHUB/assets/137039248/26c587ec-ce78-454e-85ea-e7c112ad3347" width="50">
+      <br>C++
+    </td>
+  </tr>
+</table>
 
 
