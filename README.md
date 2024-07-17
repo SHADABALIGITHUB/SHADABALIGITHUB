@@ -115,6 +115,17 @@ Current Learning Goals
   </tr>
 </table>
 
+## Frameworks
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" width="50">
+      <br>Nextjs
+    </td>
+ </tr>
+</table>
+
 ## Basic Languages and Utils
 
 <table>
