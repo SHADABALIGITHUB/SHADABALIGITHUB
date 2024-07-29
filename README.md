@@ -11,34 +11,29 @@ Get in Touch
 📱 Connect with me on LinkedIn: https://www.linkedin.com/in/shadab-ali-a3b667253/
 🌐 Visit my portfolio website: Pending.
  # Projects
-Here are some of the exciting projects I'm working on:
+Here are some of the exciting projects I'm working on: - blank
 
-Skills
-Languages: C++, JavaScript
-Web Technologies: HTML, CSS, React.js
-Database: MongoDB, Firebase
-Version Control: Git
-Current Learning Goals
+#Current Learning Goals
 🌱 Learning more about backend technologies.
 🚀 Improving my competitive programming skills in C++.
 
-<p align='center' width='100%'>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHADABALIGITHUB&theme=dracula" />
-<img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SHADABALIGITHUB&theme=dracula&langs_count=25'/>
-</p>
+# GitHub Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHADABALIGITHUB" />
+<img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SHADABALIGITHUB&langs_count=25'/>
 
 
-<p align='center'>
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
+
+
 
 ![](https://github-profile-trophy.vercel.app/?username=SHADABALIGITHUB&margin-w=4&row=3&column=4)
 
-</p>
-<p align=left>
-<!-- <img algin='left' width='49%' src='https://github-readme-stats.vercel.app/api?username=tynab&count_private=true&show_icons=true&theme=dracula' /> -->
-<img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=SHADABALIGITHUB&count_private=true&show_icons=true&theme=dracula' />
-<img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=SHADABALIGITHUB&theme=dracula' />
-</p>
+
+
+<img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=SHADABALIGITHUB&count_private=true&show_icons=true' />
+<img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=SHADABALIGITHUB' />
+
 
 <!-- <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=tynab&theme=dracula&langs_count=10' /> -->
 
