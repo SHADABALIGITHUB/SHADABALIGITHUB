@@ -17,22 +17,39 @@ Here are some of the exciting projects I'm working on: - blank
 🌱 Learning more about backend technologies.
 🚀 Improving my competitive programming skills in C++.
 
-# GitHub Stats
+# 🚀 GitHub Profile Overview
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHADABALIGITHUB" />
-<img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SHADABALIGITHUB&langs_count=25'/>
+Welcome to my GitHub profile! Here's a snapshot of my activity and skills.
+
+## 📊 Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHADABALIGITHUB&theme=github_dark" alt="Profile Overview" />
+
+## 🌐 Top Languages
+
+Here are the programming languages I use most often:
+
+<img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SHADABALIGITHUB&langs_count=25&theme=radical' alt="Top Languages" />
+
+## 🏆 GitHub Trophies
+
+Check out the trophies I've earned for my contributions:
+
+<img src="https://github-profile-trophy.vercel.app/?username=SHADABALIGITHUB&margin-w=4&row=3&column=4&theme=onedark" alt="GitHub Trophies" />
+
+## 📈 Rating Stats
+
+Here’s a snapshot of my GitHub statistics:
+
+<img  src='https://readme-stats-fabio-vicente.vercel.app/api?username=SHADABALIGITHUB&count_private=true&show_icons=true&theme=tokyonight' alt="Rating Stats" />
+
+## 🔥 Contributions & Streak
+
+See my contribution streak and activity:
+
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=SHADABALIGITHUB&theme=dark' alt="Contributions & Streak" />
 
 
-# 🏆 GitHub Trophies
-
-
-
-![](https://github-profile-trophy.vercel.app/?username=SHADABALIGITHUB&margin-w=4&row=3&column=4)
-
-
-
-<img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=SHADABALIGITHUB&count_private=true&show_icons=true' />
-<img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=SHADABALIGITHUB' />
 
 
 <!-- <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=tynab&theme=dracula&langs_count=10' /> -->
