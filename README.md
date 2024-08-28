@@ -10,11 +10,9 @@ Get in Touch
 
 📱 Connect with me on LinkedIn: https://www.linkedin.com/in/shadab-ali-a3b667253/
 🌐 Visit my portfolio website: Pending.
- # Projects
-Here are some of the exciting projects I'm working on: - blank
-
 #Current Learning Goals
 🌱 Learning more about backend technologies.
+
 🚀 Improving my competitive programming skills in C++.
 
 # 🚀 GitHub Profile Overview
