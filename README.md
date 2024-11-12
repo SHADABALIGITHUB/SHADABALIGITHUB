@@ -3,10 +3,10 @@
 
 Hello, I'm Shadab Ali! 🚀 I'm a B.Tech student at JSS NOIDA, affiliated with AKTU. I previously studied at Jamia Millia Islamia, where I pursued Polytechnic.
 
-👨‍💻 I'm passionate about becoming a Full-Stack Web Developer.
-🌐 Currently exploring the vast world of web development and learning the latest technologies.
-💡 Interested in competitive programming, primarily using C++.
-💻 Proficient in JavaScript for building interactive web pages.
+👨‍💻 I'm passionate about becoming a Full-Stack Web Developer.</br>
+🌐 Currently exploring the vast world of web development and learning the latest technologies.</br>
+💡 Interested in competitive programming, primarily using C++.</br>
+💻 Proficient in JavaScript for building interactive web pages.</br>
 Get in Touch
 
 
@@ -24,7 +24,7 @@ Get in Touch
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHADABALIGITHUB&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=SHADABALIGITHUB&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=SHADABALIGITHUB&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=3)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SHADABALIGITHUB&icon=0&color=0)](https://visitcount.itsvg.in)
