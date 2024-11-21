@@ -1,7 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 # 💫About Me :
 
-
 Hello, I'm Shadab Ali! 🚀 I'm a B.Tech student at JSS NOIDA, affiliated with AKTU. I previously studied at Jamia Millia Islamia, where I pursued Polytechnic.
 
 👨‍💻 I'm passionate about becoming a Full-Stack Web Developer.</br>
